@@ -1,0 +1,27 @@
+{
+  "name": "face-runner",
+  "version": "1.0.0",
+  "description": "shapes from from my face",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrewMurr2/face-runner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrewMurr2/face-runner/issues"
+  },
+  "homepage": "https://github.com/DrewMurr2/face-runner#readme",
+  "dependencies": {
+    "ts-node": "^8.9.1",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
